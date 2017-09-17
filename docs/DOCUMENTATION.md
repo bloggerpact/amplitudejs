@@ -897,7 +897,7 @@ Amplitude.play()
 ### Pause
 This simply pauses whatever song is active.
 ```
-Amplitude.play()
+Amplitude.pause()
 ```
 
 ### Get Audio
